@@ -1,0 +1,14 @@
+//
+//  NewsInHouse.release.xcconfig
+//  Article
+//
+//  Created by Chen Hong on 15/8/15.
+//
+//
+#include "Pods/Target Support Files/Pods/Pods.release.xcconfig"
+
+CODE_SIGN_IDENTITY = iPhone Distribution: Beijing Bytedance Technology Co., Ltd
+
+PROVISIONING_PROFILE = da972a2a-ed92-4fb9-9768-4b7fd6fea1d5
+
+

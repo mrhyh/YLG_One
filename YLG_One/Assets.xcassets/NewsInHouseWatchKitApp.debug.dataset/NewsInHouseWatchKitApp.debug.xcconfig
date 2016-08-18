@@ -1,0 +1,11 @@
+//
+//  NewsInHouseWatchKitApp.debug.xcconfig
+//  Article
+//
+//  Created by Chen Hong on 15/8/15.
+//
+//
+
+CODE_SIGN_IDENTITY = iPhone Developer: wang zhaoqi (38XB4488V5)
+
+PROVISIONING_PROFILE = 07176f51-f431-4be6-b160-c9947857c1fd

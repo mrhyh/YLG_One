@@ -1,0 +1,11 @@
+//
+//  NewsInHouseWatchKitApp.release.xcconfig
+//  Article
+//
+//  Created by Chen Hong on 15/8/15.
+//
+//
+
+CODE_SIGN_IDENTITY = iPhone Distribution: Beijing Bytedance Technology Co., Ltd
+
+PROVISIONING_PROFILE = 9885cfea-5fef-4518-9ed5-362b34eadc0a

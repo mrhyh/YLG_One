@@ -1,0 +1,15 @@
+{
+  "message": "success",
+  "data": {
+    "disable_applog": 0,
+    "report_fail_base_interval": 15,
+    "max_retry_count": 4,
+    "fetch_setting_interval": 14400,
+    "once_max_count": 100,
+    "polling_interval": 120,
+    "server_time":1466759985438,
+    "report_host": [
+      "http://log.snssdk.com/collect/v2/app_log/"
+    ]    
+  }
+}

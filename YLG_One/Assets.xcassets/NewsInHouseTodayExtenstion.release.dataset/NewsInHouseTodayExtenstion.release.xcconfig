@@ -1,0 +1,12 @@
+//
+//  NewsInHouseTodayExtenstion.release.xcconfig
+//  Article
+//
+//  Created by Chen Hong on 15/8/15.
+//
+//
+#include "Pods/Target Support Files/Pods-TodayExtenstion/Pods-TodayExtenstion.release.xcconfig"
+
+CODE_SIGN_IDENTITY = iPhone Distribution: Beijing Bytedance Technology Co., Ltd
+
+PROVISIONING_PROFILE = e1189e0c-bc69-4311-bd34-ae33c7c2aa5a

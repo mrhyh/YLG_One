@@ -1,0 +1,41 @@
+{
+    "message": "success",
+    "data": {
+      "enable_net_stats":0,
+      "report_fail_base_interval":15,
+       "disable_report_error":0,
+    	"max_retry_count": 4,
+        "fetch_setting_interval":600,
+    	"once_max_count": 100,
+    	"polling_interval": 120,
+    	"report_host":["mon.snssdk.com", "mon.toutiao.com",  "mon.toutiaocloud.com", "mon.toutiaocloud.net"],
+        "dns_report_interval": 86400,
+        "dns_report_list": [
+            "a0.pstatp.com",
+            "ib.snssdk.com",
+            "log.snssdk.com"
+        ],
+        "api_report": [
+            {
+                "pattern": "snssdk.com/2/article/v\\d+/stream",
+                "sample_ratio": 0.1
+            },
+            {
+                "pattern": "a\\d+.pstatp.com/2/article",
+                "sample_ratio": 0.0005
+            },
+            {
+                "pattern": "snssdk.com/service/2/app_log/",
+                "sample_ratio": 0.0005
+            },
+            {
+                "pattern": "snssdk.com/ttdiscuss/v1/commit/publish",
+                "sample_ratio": 0.5
+            },
+            {
+                "pattern": "snssdk.com/2/data/upload_image",
+                "sample_ratio": 0.5
+            }
+        ]
+    }
+}

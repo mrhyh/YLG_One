@@ -1,0 +1,73 @@
+PODS:
+  - AFNetworking (2.5.4):
+    - AFNetworking/NSURLConnection (= 2.5.4)
+    - AFNetworking/NSURLSession (= 2.5.4)
+    - AFNetworking/Reachability (= 2.5.4)
+    - AFNetworking/Security (= 2.5.4)
+    - AFNetworking/Serialization (= 2.5.4)
+    - AFNetworking/UIKit (= 2.5.4)
+  - AFNetworking/NSURLConnection (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.4)
+  - AFNetworking/Security (2.5.4)
+  - AFNetworking/Serialization (2.5.4)
+  - AFNetworking/UIKit (2.5.4):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - DZNEmptyDataSet (1.8.1)
+  - FDFullscreenPopGesture (1.1)
+  - FLEX (2.3.0)
+  - IQKeyboardManager (3.3.7)
+  - iRate (1.11.4)
+  - MJRefresh (3.1.12)
+  - Reachability (3.0.0)
+  - SDAutoLayout (1.53)
+  - SDWebImage (3.7.6):
+    - SDWebImage/Core (= 3.7.6)
+  - SDWebImage/Core (3.7.6)
+  - SVWebViewController (1.0)
+  - WZLBadge (1.2.4)
+  - XHImageViewer (0.1.2)
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.5.4)
+  - DZNEmptyDataSet
+  - FDFullscreenPopGesture (= 1.1)
+  - FLEX (~> 2.0)
+  - IQKeyboardManager (~> 3.3.6)
+  - iRate (~> 1.11.3)
+  - MJRefresh (~> 3.1.0)
+  - Reachability (~> 3.0.0)
+  - SDAutoLayout (~> 1.52)
+  - SDWebImage (~> 3.7.2)
+  - SVWebViewController (~> 1.0)
+  - WZLBadge (~> 1.2.1)
+  - XHImageViewer (~> 0.1.2)
+  - YYModel
+
+SPEC CHECKSUMS:
+  AFNetworking: 05edc0ac4c4c8cf57bcf4b84be5b0744b6d8e71e
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  FDFullscreenPopGesture: a8a620179e3d9c40e8e00256dcee1c1a27c6d0f0
+  FLEX: ba80ea13d2c784e85e616137fd4eff164781e364
+  IQKeyboardManager: 249c3946acf61345c18b038eb50863fe2793e3a8
+  iRate: 599ed07c854e0695f3c605d1b2a64c67d912acb7
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  Reachability: 31e4272bd8378e094beaf6609dc182c85c4e6574
+  SDAutoLayout: ea6e2ae9fbb438aa2feb0c4363dba9297e98638a
+  SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
+  SVWebViewController: c36dda7326e81fcae0abf5d02bf7bbf7e41be901
+  WZLBadge: 6c63f68fa5943d472fe6b1048929a4e479f6e43d
+  XHImageViewer: 7b275d2aa829e56761c30303b9d51cae086a90b9
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: 817781406517d4119b357a1767de7415c49d0be4
+
+COCOAPODS: 1.1.0.beta.1

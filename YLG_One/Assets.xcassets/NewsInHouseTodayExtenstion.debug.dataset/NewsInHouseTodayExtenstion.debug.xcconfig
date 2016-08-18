@@ -1,0 +1,13 @@
+//
+//  NewsInHouseTodayExtenstion.debug.xcconfig
+//  Article
+//
+//  Created by Chen Hong on 15/8/15.
+//
+//
+#include "Pods/Target Support Files/Pods-TodayExtenstion/Pods-TodayExtenstion.debug.xcconfig"
+
+CODE_SIGN_IDENTITY = iPhone Developer: wang zhaoqi (38XB4488V5)
+
+PROVISIONING_PROFILE = e2c1bd19-1392-4528-aa00-768341b00f01
+

@@ -1,0 +1,12 @@
+//
+//  Config.xcconfig
+//  Article
+//
+//  Created by Chen Hong on 15/8/15.
+//
+//
+#include "Pods/Target Support Files/Pods/Pods.debug.xcconfig"
+
+CODE_SIGN_IDENTITY = iPhone Developer: wang zhaoqi (38XB4488V5)
+
+PROVISIONING_PROFILE = 4a93ba4c-2671-4b8a-99f4-da9ca1206066

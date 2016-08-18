@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>Assets.car</key>
+		<data>
+		kx7nXolAyyhCv5dpf63gQ7zyTNM=
+		</data>
+		<key>Info.plist</key>
+		<data>
+		GvLih1SRoRoNivpD6/h9ZOmRvL4=
+		</data>
+		<key>News WatchKit App.app/AppIcon24x24@2x.png</key>
+		<data>
+		Fae4bO5iNa8IS7PNjKehocomfLo=
+		</data>
+		<key>News WatchKit App.app/AppIcon27.5x27.5@2x.png</key>
+		<data>
+		iEwUWcoSrl5qDZUQtVkNpLG/k5E=
+		</data>
+		<key>News WatchKit App.app/AppIcon29x29@2x.png</key>
+		<data>
+		CFM+EqVSWubgaYnqqt0H7UamYa4=
+		</data>
+		<key>News WatchKit App.app/AppIcon29x29@3x.png</key>
+		<data>
+		bU54JH7jvBbs97UIRn6k+ZBq36A=
+		</data>
+		<key>News WatchKit App.app/AppIcon40x40@2x.png</key>
+		<data>
+		9stj2qkDvoyItRsPRdVw5GZg+D0=
+		</data>
+		<key>News WatchKit App.app/AppIcon44x44@2x.png</key>
+		<data>
+		F9OLC7dGcph3riBmIgqw1SwIH64=
+		</data>
+		<key>News WatchKit App.app/AppIcon86x86@2x.png</key>
+		<data>
+		y359Enwnhsce97uSVf1FKStZkLM=
+		</data>
+		<key>News WatchKit App.app/AppIcon98x98@2x.png</key>
+		<data>
+		6ccKD7+DTLbt/nixvUjYAjQpBKs=
+		</data>
+		<key>News WatchKit App.app/Assets.car</key>
+		<data>
+		WBKHBufNC/VA7lECDvZXj7cEdlM=
+		</data>
+		<key>News WatchKit App.app/Base.lproj/Interface-notification.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PdRtfU3s/nfOsJxCptfD34vXuY4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>News WatchKit App.app/Base.lproj/Interface.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jQ0FdWuoJIgbkwK3HwRBmyYioew=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>News WatchKit App.app/Info.plist</key>
+		<data>
+		2k0X6uWOLXL+zhIZR9Kgj+ckkSo=
+		</data>
+		<key>News WatchKit App.app/News Social WatchKit App Info.plist</key>
+		<data>
+		xV51bdSiZtp4Jxql2XDNL8ovu94=
+		</data>
+		<key>News WatchKit App.app/News WatchKit App</key>
+		<data>
+		9SmcurjAVCc4q8ysJT+Y/8tGWjo=
+		</data>
+		<key>News WatchKit App.app/PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>News WatchKit App.app/_CodeSignature/CodeResources</key>
+		<data>
+		zPe2U7psEmqu9V3ZRgdoBiQOuq8=
+		</data>
+		<key>News WatchKit App.app/_WatchKitStub/WK</key>
+		<data>
+		3u1pnzoZehfA0rR0gs7VcaaFjCI=
+		</data>
+	</dict>
+	<key>files2</key>
+	<dict>
+		<key>Assets.car</key>
+		<data>
+		kx7nXolAyyhCv5dpf63gQ7zyTNM=
+		</data>
+		<key>News WatchKit App.app/AppIcon24x24@2x.png</key>
+		<data>
+		Fae4bO5iNa8IS7PNjKehocomfLo=
+		</data>
+		<key>News WatchKit App.app/AppIcon27.5x27.5@2x.png</key>
+		<data>
+		iEwUWcoSrl5qDZUQtVkNpLG/k5E=
+		</data>
+		<key>News WatchKit App.app/AppIcon29x29@2x.png</key>
+		<data>
+		CFM+EqVSWubgaYnqqt0H7UamYa4=
+		</data>
+		<key>News WatchKit App.app/AppIcon29x29@3x.png</key>
+		<data>
+		bU54JH7jvBbs97UIRn6k+ZBq36A=
+		</data>
+		<key>News WatchKit App.app/AppIcon40x40@2x.png</key>
+		<data>
+		9stj2qkDvoyItRsPRdVw5GZg+D0=
+		</data>
+		<key>News WatchKit App.app/AppIcon44x44@2x.png</key>
+		<data>
+		F9OLC7dGcph3riBmIgqw1SwIH64=
+		</data>
+		<key>News WatchKit App.app/AppIcon86x86@2x.png</key>
+		<data>
+		y359Enwnhsce97uSVf1FKStZkLM=
+		</data>
+		<key>News WatchKit App.app/AppIcon98x98@2x.png</key>
+		<data>
+		6ccKD7+DTLbt/nixvUjYAjQpBKs=
+		</data>
+		<key>News WatchKit App.app/Assets.car</key>
+		<data>
+		WBKHBufNC/VA7lECDvZXj7cEdlM=
+		</data>
+		<key>News WatchKit App.app/Base.lproj/Interface-notification.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PdRtfU3s/nfOsJxCptfD34vXuY4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>News WatchKit App.app/Base.lproj/Interface.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jQ0FdWuoJIgbkwK3HwRBmyYioew=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>News WatchKit App.app/Info.plist</key>
+		<data>
+		2k0X6uWOLXL+zhIZR9Kgj+ckkSo=
+		</data>
+		<key>News WatchKit App.app/News Social WatchKit App Info.plist</key>
+		<data>
+		xV51bdSiZtp4Jxql2XDNL8ovu94=
+		</data>
+		<key>News WatchKit App.app/News WatchKit App</key>
+		<data>
+		9SmcurjAVCc4q8ysJT+Y/8tGWjo=
+		</data>
+		<key>News WatchKit App.app/PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>News WatchKit App.app/_CodeSignature/CodeResources</key>
+		<data>
+		zPe2U7psEmqu9V3ZRgdoBiQOuq8=
+		</data>
+		<key>News WatchKit App.app/_WatchKitStub/WK</key>
+		<data>
+		3u1pnzoZehfA0rR0gs7VcaaFjCI=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>^</key>
+		<true/>
+		<key>^(Frameworks/[^/]+\.framework/|PlugIns/[^/]+\.appex/|PlugIns/[^/]+\.appex/Frameworks/[^/]+\.framework/|())SC_Info/[^/]+\.(sinf|supf|supp)$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<integer>10000</integer>
+		</dict>
+		<key>^.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^Watch/[^/]+\.app/(Frameworks/[^/]+\.framework/|PlugIns/[^/]+\.appex/|PlugIns/[^/]+\.appex/Frameworks/[^/]+\.framework/)SC_Info/[^/]+\.(sinf|supf|supp)$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<integer>10000</integer>
+		</dict>
+		<key>^version.plist$</key>
+		<true/>
+	</dict>
+	<key>rules2</key>
+	<dict>
+		<key>.*\.dSYM($|/)</key>
+		<dict>
+			<key>weight</key>
+			<real>11</real>
+		</dict>
+		<key>^</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^(.*/)?\.DS_Store$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>2000</real>
+		</dict>
+		<key>^(Frameworks/[^/]+\.framework/|PlugIns/[^/]+\.appex/|PlugIns/[^/]+\.appex/Frameworks/[^/]+\.framework/|())SC_Info/[^/]+\.(sinf|supf|supp)$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<integer>10000</integer>
+		</dict>
+		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>^.*</key>
+		<true/>
+		<key>^.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^Info\.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^PkgInfo$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^Watch/[^/]+\.app/(Frameworks/[^/]+\.framework/|PlugIns/[^/]+\.appex/|PlugIns/[^/]+\.appex/Frameworks/[^/]+\.framework/)SC_Info/[^/]+\.(sinf|supf|supp)$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<integer>10000</integer>
+		</dict>
+		<key>^[^/]+$</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>^embedded\.provisionprofile$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^version\.plist$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+	</dict>
+</dict>
+</plist>

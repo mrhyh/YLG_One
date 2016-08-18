@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Style</key>
+	<integer>2</integer>
+	<key>TabHome</key>
+	<dict>
+		<key>TitleArray</key>
+		<array>
+			<string>资讯</string>
+			<string>搜索</string>
+			<string>商城</string>
+			<string>我</string>
+		</array>
+		<key>NormalImageArray</key>
+		<array>
+			<string>tabbar_news</string>
+			<string>tabbar_search</string>
+			<string>tabbar_store</string>
+			<string>tabbar_me</string>
+		</array>
+		<key>SelectedImageArray</key>
+		<array>
+			<string>tabbar_news_active</string>
+			<string>tabbar_search_active</string>
+			<string>tabbar_store_active</string>
+			<string>tabbar_me_active</string>
+		</array>
+		<key>TitleColor</key>
+		<string>000000</string>
+		<key>TitleColorHighlighted</key>
+		<string>599CE9</string>
+		<key>VcClassNames</key>
+		<array>
+			<string>NewsVC</string>
+			<string>SearchVC</string>
+			<string>MallVC</string>
+			<string>MineVC</string>
+		</array>
+	</dict>
+</dict>
+</plist>
