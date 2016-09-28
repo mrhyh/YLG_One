@@ -23,6 +23,7 @@ pod 'DZNEmptyDataSet' #tableView 没数据时提示页面
 pod 'FDFullscreenPopGesture', '1.1' #全屏手势侧滑返回
 pod 'IQKeyboardManager', '~> 3.3.6' #键盘管理
 pod 'SDAutoLayout', '~> 1.52' #约束
+pod 'SVProgressHUD', '~> 2.0.3'
 #调试
 pod 'FLEX', '~> 2.0', :configurations => ['Debug'] #An in-app debugging and exploration tool for iOS
 
@@ -52,7 +53,7 @@ pod 'WZLBadge', '~> 1.2.1' #小红点
 #pod 'AlipaySDK-2.0'
 #pod 'JPush'
 #pod 'RETableViewManager'
-#pod 'UIScrollView+PullBig'
+pod 'UIScrollView+PullBig'
 #pod 'UMengAnalytics-NO-IDFA'
 #pod 'HyphenateSDK', :git => 'https://github.com/easemob/hyphenate-cocoapods.git'
 #pod 'EaseMobSDKFull', :git => 'https://github.com/easemob/sdk-ios-cocoapods-integration.git'

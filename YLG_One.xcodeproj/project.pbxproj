@@ -564,6 +564,7 @@
 		EB2F9A761D65F75F00DD28E2 /* MainLayoutConfig_.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = MainLayoutConfig_.plist; sourceTree = "<group>"; };
 		EB2F9A771D65F75F00DD28E2 /* PushConfig.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = PushConfig.plist; sourceTree = "<group>"; };
 		EB2F9A781D65F75F00DD28E2 /* RiskHeader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RiskHeader.h; sourceTree = "<group>"; };
+		EB6852631D693E5C0092F33D /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -638,6 +639,7 @@
 				EB2F9A761D65F75F00DD28E2 /* MainLayoutConfig_.plist */,
 				EB2F9A771D65F75F00DD28E2 /* PushConfig.plist */,
 				EB2F9A781D65F75F00DD28E2 /* RiskHeader.h */,
+				EB6852631D693E5C0092F33D /* PrefixHeader.pch */,
 				EB2F9A711D65F6FC00DD28E2 /* Podfile */,
 				EB2F8CD81D65F63A00DD28E2 /* main.m */,
 			);
@@ -680,10 +682,10 @@
 				EB2F98351D65F6D300DD28E2 /* EFAppManager.h */,
 				EB2F98361D65F6D300DD28E2 /* EFAppManager.m */,
 				EB2F98371D65F6D300DD28E2 /* EFHeader.h */,
-				EB2F98381D65F6D300DD28E2 /* Frame */,
-				EB2F986D1D65F6D300DD28E2 /* Libs */,
 				EB2F98761D65F6D300DD28E2 /* PrefixHeader.pch */,
 				EB2F98771D65F6D300DD28E2 /* readme.txt */,
+				EB2F98381D65F6D300DD28E2 /* Frame */,
+				EB2F986D1D65F6D300DD28E2 /* Libs */,
 				EB2F98781D65F6D300DD28E2 /* Tools */,
 			);
 			path = EasyFrameBase;

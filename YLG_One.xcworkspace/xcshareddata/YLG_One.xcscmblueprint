@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "54F49C20C0486E534C7FBD66F27363990E7209C8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "04759db4-9af8-43ff-a320-3e1e11e12db7++5586" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "54F49C20C0486E534C7FBD66F27363990E7209C8" : 9223372036854775807,
+    "04759db4-9af8-43ff-a320-3e1e11e12db7++5586" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A0FFFC88-BED8-44E1-B472-D9861AB13BFB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "54F49C20C0486E534C7FBD66F27363990E7209C8" : "YLG_One\/",
+    "04759db4-9af8-43ff-a320-3e1e11e12db7++5586" : "EF_branches\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "YLG_One",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "YLG_One.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.0.122\/svn\/kingyonsvn",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "04759db4-9af8-43ff-a320-3e1e11e12db7++5586"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mrhyh\/YLG_One.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "54F49C20C0486E534C7FBD66F27363990E7209C8"
+    }
+  ]
+}
